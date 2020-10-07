@@ -11,7 +11,7 @@ conda create -n ENV python==3.8
 ```bash
 conda activate ENV # activate 
 
-conda deactivate ENV # deactivate 
+conda deactivate # deactivate 
 ```
 3. install third-part package 
 ```bash
